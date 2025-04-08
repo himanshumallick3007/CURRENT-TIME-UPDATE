@@ -1,0 +1,2 @@
+# CURRENT-TIME-UPDATE
+this is my project name "CURRENT TIME UPDATE" by using HTML AND JAVASCRIPT
